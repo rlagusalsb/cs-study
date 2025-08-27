@@ -1,1 +1,1 @@
-# 📝 CS Study for Backend
+# 📝 CS Study
