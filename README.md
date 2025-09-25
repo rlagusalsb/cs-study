@@ -7,7 +7,7 @@
 - 동기화 (세마포어, 뮤텍스 등)
 - 교착상태 (Deadlock)
 - 메모리 관리 (페이징, 세그멘테이션, 가상 메모리)
-- Blocking / Non-blocking / Async I/O 모델
+- Blocking / Non-blocking / Async I/O
 
 ---
 
@@ -17,7 +17,6 @@
 - HTTP/HTTPS
 - 3-way / 4-way Handshake
 - 로드 밸런싱 / 프록시 / CDN
-- REST API vs gRPC vs GraphQL
 
 ---
 
@@ -26,9 +25,6 @@
 - 정규화 & 비정규화
 - 트랜잭션 & ACID
 - 격리 수준 (Isolation Level)
-- Lock & Deadlock
-- 분산 DB & 샤딩 & 복제
-- Redis (캐싱, 세션, pub/sub)
 
 ---
 
