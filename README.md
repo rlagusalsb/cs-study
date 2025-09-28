@@ -34,7 +34,7 @@
 - 해시 테이블(Hash Table)
 - 힙(Heap), 우선순위 큐
 - 트리(Tree), BST, AVL, Red-Black Tree
-- 그래프(Graph), DFS, BFS
+- DFS, BFS
 
 ---
 
